@@ -64,9 +64,9 @@ pi {
 			url=			'https://api.mercadolibre.com'
 		}
 		credentials {
-			clientId= 		':yourClientID'
-			clientSecret= 	':yourClientSecret'
-			redirectUrl=	':yourRedirectURL'
+			clientId= 		':3557927161927524'
+			clientSecret= 	':0aQcTDNK1oV4AICmQT6yAuasmM62CCLX'
+			redirectUrl=	':https://product-dentifiers.herokuapp.com'
 		}
 	}
 }
